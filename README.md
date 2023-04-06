@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Nusla Ismail
 - 👀 I’m interested in building creative soultions 
-- 🌱 I’m currently an software engineerinf undergraduate
+- 🌱 I’m currently an software engineering undergraduate
 - 📫 Connect with me on linkedin : https://www.linkedin.com/in/nusla-ismail-495b66206
 
 <!---
